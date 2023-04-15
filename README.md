@@ -2,6 +2,6 @@
 
 some new changes new
 
-Updated text new in git branch
+Updated text new in git branch test
 
 
