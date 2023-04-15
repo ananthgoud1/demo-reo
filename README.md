@@ -2,6 +2,6 @@
 
 some new changes new
 
-Updated text
+Updated text new in git branch
 
 
